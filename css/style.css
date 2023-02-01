@@ -6,11 +6,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-body {
-    height: 98vh;
-    background: url('../images/bk-clock-desktop.jpg') no-repeat bottom center / 50%; 
-}
-
 h1 {
     font-size: 3em;
     margin: 10px;
