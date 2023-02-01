@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        background: url('../images/bk-clock-desktop.jpg') no-repeat bottom center / 50%; 
+    }
+
+    h2.timer {
+        background-color: rgba(0, 0, 0, 0.5);
+        color: black;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+
+    div.buttons {
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 0px;
+    }
+
+    footer img.clock {
+        display: none;
+    }
+} 
