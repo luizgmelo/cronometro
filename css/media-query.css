@@ -4,6 +4,7 @@
     body {
         display: flex;
         flex-direction: column;
+        height: 99vh;
         gap: 20px;
         background: url('../images/bk-clock-desktop.jpg') no-repeat bottom center / 50%; 
     }
